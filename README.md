@@ -15,5 +15,9 @@
 
 - 🤓 I am passionate, dedicated and I love what I do.
 - 🥳 I strive for learning as much as possible.
-- �- I love to have fun and to spread a great vib
+- 🍕 I love to have fun and to spread a great vibe.
 - ☕️ I enjoy a great cup of coffee. Always important to mention in the developer community.
+
+### What is the most important thing somebody from the field has told you?
+
+- 💡 Every single thing.
