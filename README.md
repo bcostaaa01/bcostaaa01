@@ -21,3 +21,6 @@
 ### What is the most important thing somebody from the field has told you?
 
 - 💡 Every single thing.
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bcostaaa01"/>
