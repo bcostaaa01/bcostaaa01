@@ -24,3 +24,5 @@
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bcostaaa01"/>
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=bcostaaa01.visitor-badge">
