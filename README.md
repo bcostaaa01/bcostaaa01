@@ -25,10 +25,10 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bcostaaa01"/>
 
-You are among this list of people visiting my code 😁
+## You are among this list of people visiting my code 😁
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=bcostaaa01.visitor-badge">
 
-See you in future pair-coding or collaborations!👋
+## See you in future pair-coding or collaborations!👋
 
 <img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/200w.gif?cid=82a1493bwgzsf9ls1oxho8awc8389y3r23h63oag87n2tjlh&rid=200w.gif&ct=g"/>
