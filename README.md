@@ -25,6 +25,10 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bcostaaa01"/>
 
+## ⚒️ My tech stack
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,gatsby,nodejs,tailwind,ts,py,git)](https://skills.thijs.gg)
+
 ## You are among this list of people visiting my code 😁
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=bcostaaa01.visitor-badge">
