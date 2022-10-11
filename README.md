@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on frontend and backend projects...
-- 🌱 I’m currently learning Python, Node.js, Gatsby.js, Vue, D3, pi-based computing (Raspberry stuff)...
+- 🌱 I’m currently learning Java, C# Python, Node.js, Gatsby.js, D3, pi-based computing (Raspberry stuff)...
 - 👯 I’m looking to collaborate on projects that have an impact...
 - 🤔 I’m looking for help with learning about software design patterns and architecture...
 - 💬 Ask me about music, food, coffee, F1...
@@ -27,12 +27,10 @@
 
 ## ⚒️ My tech stack
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,gatsby,nodejs,tailwind,ts,py,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,gatsby,nodejs,tailwind,ts,py,java,c#)](https://skills.thijs.gg)
 
 ## You are among this list of people visiting my code 😁
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=bcostaaa01.visitor-badge">
 
 ## See you in future pair-coding or collaborations!👋
-
-<img src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/200w.gif?cid=82a1493bwgzsf9ls1oxho8awc8389y3r23h63oag87n2tjlh&rid=200w.gif&ct=g"/>
