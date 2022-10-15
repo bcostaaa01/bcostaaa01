@@ -35,3 +35,14 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=bcostaaa01.visitor-badge">
 
 ## See you in future pair-coding or collaborations!👋
+
+## Connect with me 📲
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/bruno-miguel-alves-costa/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.twitter.com/bruno2001costa">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
