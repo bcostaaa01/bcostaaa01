@@ -22,27 +22,30 @@
 
 - 💡 Every single thing.
 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bcostaaa01"/>
-
 ## ⚒️ My tech stack
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,ruby,nodejs,tailwind,ts,py,java,c#)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=jest,d3,gatsby,git,jquery,tailwind,powershell)](https://skills.thijs.gg)
 
+## Open Source npm packages 📦
+
+<a href="https://www.npmjs.com/~bcostaaa01">
+    <img src="https://juststickers.in/wp-content/uploads/2014/08/NPM.jpg" alt="npm packages" style="width: 40px; height; 20px;"/>
+  </a>
+
 ## You are among this list of people visiting my code 😁
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=bcostaaa01.visitor-badge">
-
-## See you in future pair-coding or collaborations!👋
 
 ## Connect with me 📲
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/bruno-miguel-alves-costa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.twitter.com/bruno2001costa">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
+
+## See you in future pair-coding or collaborations!👋
