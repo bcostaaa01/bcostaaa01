@@ -22,6 +22,12 @@
 
 - 💡 Every single thing.
 
+### 🫳 Among the projects I have contributed to
+
+- https://xentral.com/
+- https://www.scoutdecision.com/
+- https://cobenefit.co/
+
 ## ⚒️ My tech stack
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,ruby,nodejs,tailwind,ts,py,java,c#)](https://skills.thijs.gg)
