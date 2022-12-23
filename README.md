@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![mickey mouse waving hey](https://media.tenor.com/O9cMdj1wkgAAAAAC/mickey-mouse-wave.gif)
+<img style="height: 160px" src="https://media.tenor.com/O9cMdj1wkgAAAAAC/mickey-mouse-wave.gif" />
 
 - 🔭 I’m currently working on frontend and backend projects...
 - 🌱 I’m currently learning Java, C#, Python, Vue, Node.js, Gatsby.js, D3, testing, pi computing (Raspberry stuff)...
