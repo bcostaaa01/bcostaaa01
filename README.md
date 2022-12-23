@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![mickey mouse waving hey](https://media.tenor.com/O9cMdj1wkgAAAAAC/mickey-mouse-wave.gif)
+
 - 🔭 I’m currently working on frontend and backend projects...
 - 🌱 I’m currently learning Java, C#, Python, Vue, Node.js, Gatsby.js, D3, testing, pi computing (Raspberry stuff)...
 - 👯 I’m looking to collaborate on projects that have an impact...
@@ -45,6 +47,10 @@
   </a>
   <a href="https://www.twitter.com/bruno2001costa">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+   <a href="https://www.twitter.com/bruno2001costa">
+    <a href="https://dev.to/bcostaaa01">
+    <img style="height: 30px; width: 30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="Dev.to"/>
   </a>
 </div>
 
