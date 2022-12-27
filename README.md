@@ -42,9 +42,6 @@
 ## Connect with me 📲
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/bruno-miguel-alves-costa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://www.twitter.com/bruno2001costa">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
