@@ -45,10 +45,14 @@
   <a href="https://www.twitter.com/bruno2001costa">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-   <a href="https://www.twitter.com/bruno2001costa">
+  <div>
     <a href="https://dev.to/bcostaaa01">
     <img style="height: 30px; width: 30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="Dev.to"/>
-  </a>
+  </div>
+  <div>
+    <a href="https://t.me/brunosmyname">
+    <img style="height: 30px; width: 30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-512.png" alt="Telegram"/>
+  </div>
 </div>
 
 ## See you in future pair-coding or collaborations!👋
