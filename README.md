@@ -33,7 +33,7 @@
 ## ⚒️ My tech stack
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,nuxt,ruby,nodejs,tailwind,ts,py,java,php,c#)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=jest,d3,gatsby,git,webpack,jquery,tailwind,powershell,angular,bash,styledcomponents)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=jest,d3,gatsby,git,webpack,jquery,powershell,angular,bash,styledcomponents)](https://skills.thijs.gg)
 
 ## You are among this list of people visiting my code 😁
 
