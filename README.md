@@ -38,16 +38,43 @@
       <a href="https://xentral.com/">
         <img style="height: 40px" src="https://xentral.com/_nuxt/img/logo-desktop.be37394.png" alt="Xentral"/>
       </a>
+      <div>
+        <ul>
+          <li>ReactJS</li>
+          <li>GatsbyJS</li>
+          <li>Chromatic Storybook</li>
+          <li>Tailwind CSS</li>
+          <li>Styled Components</li>
+        </ul>
+      </div>
     </td>
     <td>
       <a href="https://www.scoutdecision.com/">
         <img style="height: 40px; width: 40px" src="https://www.scoutdecision.com/static/assets/images/sd-optimized.png" alt="ScoutDecision"/>
       </a>
+      <div>
+        <ul>
+          <li>ReactJS</li>
+          <li>GatsbyJS</li>
+          <li>VueJS</li>
+          <li>D3JS</li>
+          <li>PlotlyJS</li>
+        </ul>
+      </div>
     </td>
     <td>
       <a href="https://cobenefit.co/">
         <img style="height: 80px; width: 80px" src="https://cobenefit.co/graphics/CoBenefit_logo.svg" alt="CoBenefit"/>
       </a>
+      <div>
+        <ul>
+          <li>VueJS</li>
+          <li>NuxtJS</li>
+          <li>Vuex</li>
+          <li>Vue Test Utils</li>
+          <li>Jest</li>
+        </ul>
+      </div>
     </td>
   </tr>
 </table>
