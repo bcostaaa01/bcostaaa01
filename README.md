@@ -27,18 +27,32 @@
 ### 🫳 Among the projects I have contributed to
 
 <br />
-<div>
-    <a href="https://xentral.com/">
-    <img style="height: 40px" src="https://xentral.com/_nuxt/img/logo-desktop.be37394.png" alt="Xentral"/>
-</div>
-<div>
-    <a href="https://www.scoutdecision.com/">
-    <img style="height: 40px; width: 40px" src="https://www.scoutdecision.com/static/assets/images/sd-optimized.png" alt="ScoutDecision"/>
-</div>
-<div>
-    <a href="https://cobenefit.co/">
-    <img style="height: 80px; width: 80px" src="https://cobenefit.co/graphics/CoBenefit_logo.svg" alt="CoBenefit"/>
-</div>
+<table style="border: 1px solid black;">
+  <tr>
+    <th>Xentral</th>
+    <th>ScoutDecision</th>
+    <th>CoBenefit</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://xentral.com/">
+        <img style="height: 40px" src="https://xentral.com/_nuxt/img/logo-desktop.be37394.png" alt="Xentral"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.scoutdecision.com/">
+        <img style="height: 40px; width: 40px" src="https://www.scoutdecision.com/static/assets/images/sd-optimized.png" alt="ScoutDecision"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://cobenefit.co/">
+        <img style="height: 80px; width: 80px" src="https://cobenefit.co/graphics/CoBenefit_logo.svg" alt="CoBenefit"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 ## ⚒️ My tech stack
 
