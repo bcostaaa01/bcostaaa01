@@ -42,6 +42,7 @@
         <ul>
           <li>ReactJS</li>
           <li>GatsbyJS</li>
+          <li>Typescript</li>
           <li>Chromatic Storybook</li>
           <li>Tailwind CSS</li>
           <li>Styled Components</li>
