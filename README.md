@@ -26,9 +26,19 @@
 
 ### 🫳 Among the projects I have contributed to
 
-- https://xentral.com/
-- https://www.scoutdecision.com/
-- https://cobenefit.co/
+<br />
+<div>
+    <a href="https://xentral.com/">
+    <img style="height: 40px" src="https://xentral.com/_nuxt/img/logo-desktop.be37394.png" alt="Xentral"/>
+</div>
+<div>
+    <a href="https://www.scoutdecision.com/">
+    <img style="height: 40px; width: 40px" src="https://www.scoutdecision.com/static/assets/images/sd-optimized.png" alt="ScoutDecision"/>
+</div>
+<div>
+    <a href="https://cobenefit.co/">
+    <img style="height: 80px; width: 80px" src="https://cobenefit.co/graphics/CoBenefit_logo.svg" alt="CoBenefit"/>
+</div>
 
 ## ⚒️ My tech stack
 
@@ -56,3 +66,5 @@
 </div>
 
 ## See you in future pair-coding or collaborations!👋
+    
+You can also read some of my weekly articles at https://dev.to/bcostaaa01
