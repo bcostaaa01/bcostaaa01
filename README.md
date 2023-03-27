@@ -2,7 +2,7 @@
 
 <img style="height: 160px" src="https://media.tenor.com/O9cMdj1wkgAAAAAC/mickey-mouse-wave.gif" />
 
-- 🔭 I’m currently working on frontend and backend projects, and a Raspberry Pi with Norns for creative music explorations 🔮
+- 🔭 I’m currently working on frontend and backend projects, data science, and a Raspberry Pi with Norns for creative music explorations 🔮
 - 🌱 I’m currently learning new things everyday...
 - 👯 I’m looking to collaborate on projects that have an impact...
 - 💬 Ask me about music, food, coffee, F1...
@@ -81,7 +81,7 @@
 
 ## ⚒️ My tech stack
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,nuxt,ruby,nodejs,tailwind,ts,py,java,php,c#&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,vue,nuxt,ruby,nodejs,tailwind,ts,py,flask,java,php,c#&theme=light)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=jest,d3,gatsby,git,webpack,jquery,powershell,angular,bash,styledcomponents,postman,lua,kubernetes,docker,ableton&theme=light)](https://skills.thijs.gg)
 
 ## Connect with me 📲
@@ -99,12 +99,5 @@ https://www.twitter.com/bruno2001costa
     <td>
 https://dev.to/bcostaaa01
     </td>
-    <td>
-https://t.me/brunosmyname
-    </td>
   </tr>
 </table>
-
-## See you in future pair-coding or collaborations!👋
-    
-Let's have a coffee: https://calendly.com/bruno-m-a-costa/coffee-chat
