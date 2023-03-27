@@ -90,7 +90,6 @@
   <tr>
     <th>Twitter</th>
     <th>My articles</th>
-    <th>Telegram</th>
   </tr>
   <tr>
     <td>
