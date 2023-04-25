@@ -76,6 +76,21 @@
         </ul>
       </div>
     </td>
+    <td>
+      <a href="https://usetorg.com/">
+        <img style="height: 80px; width: 80px" src="https://cdn.join.com/63090904a171e20008ec4cb5/torg-gmb-h-logo-xl.png" alt="CoBenefit"/>
+      </a>
+      <div>
+        <ul>
+          <li>Python</li>
+          <li>Pandas</li>
+          <li>Flask</li>
+          <li>PostgresSQL</li>
+          <li>SQL-Alchemy</li>
+          <li>HubSpot API</li>
+        </ul>
+      </div>
+    </td>
   </tr>
 </table>
 
