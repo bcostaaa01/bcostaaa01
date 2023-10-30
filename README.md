@@ -32,6 +32,7 @@
     <th>ScoutDecision</th>
     <th>CoBenefit</th>
     <th>Torg</th>
+    <th>RUNWAY36</th>
   </tr>
   <tr>
     <td>
@@ -88,7 +89,30 @@
           <li>Flask</li>
           <li>PostgresSQL</li>
           <li>SQL-Alchemy</li>
-          <li>HubSpot API</li>
+          <li>HubSpot CRM API</li>
+        </ul>
+      </div>
+    </td>
+    <td>
+      <a href="https://runway36.de/">
+        <img style="height: 80px; width: 80px" src="https://runway36.de/hubfs/raw_assets/public/Runway36_CTA9/images/branding.svg" alt="CoBenefit"/>
+      </a>
+      <div>
+        <ul>
+          <li>Python</li>
+          <li>Pandas</li>
+          <li>Flask</li>
+          <li>PostgresSQL</li>
+          <li>SQL-Alchemy</li>
+          <li>HubSpot CRM API</li>
+          <li>AWS</li>
+          <li>MySQL</li>
+          <li>PHP</li>
+          <li>Sage xRM</li>
+          <li>Vue 3</li>
+          <li>Quasar</li>
+          <li>TypeScript</li>
+          <li>GraphQL</li>
         </ul>
       </div>
     </td>
@@ -106,6 +130,8 @@
   <tr>
     <th>Twitter</th>
     <th>My articles</th>
+    <th>Open Source - Python</th>
+    <th>Open Source - npm</th>
   </tr>
   <tr>
     <td>
@@ -113,6 +139,12 @@ https://www.twitter.com/bruno2001costa
     </td> 
     <td>
 https://dev.to/bcostaaa01
+    </td>
+    <td>
+https://pypi.org/project/hubmigrate/
+    </td>
+    <td>
+https://www.npmjs.com/~bcostaaa01
     </td>
   </tr>
 </table>
