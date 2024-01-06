@@ -113,6 +113,8 @@
           <li>Quasar</li>
           <li>TypeScript</li>
           <li>GraphQL</li>
+          <li>Tailwind CSS</li>
+          <li>Flowbite-Vue</li>
         </ul>
       </div>
     </td>
