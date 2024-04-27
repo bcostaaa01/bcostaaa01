@@ -80,7 +80,7 @@
     </td>
     <td>
       <a href="https://usetorg.com/">
-        <img style="height: 80px; width: 80px" src="https://cdn.join.com/63090904a171e20008ec4cb5/torg-gmb-h-logo-xl.png" alt="CoBenefit"/>
+        <img style="height: 80px; width: 80px" src="https://cdn.join.com/63090904a171e20008ec4cb5/torg-gmb-h-logo-xl.png" alt="Torg"/>
       </a>
       <div>
         <ul>
@@ -95,7 +95,7 @@
     </td>
     <td>
       <a href="https://runway36.de/">
-        <img style="height: 80px; width: 80px" src="https://runway36.de/hubfs/raw_assets/public/Runway36_CTA9/images/branding.svg" alt="CoBenefit"/>
+        <img style="height: 80px; width: 80px" src="https://runway36.de/hubfs/raw_assets/public/Runway36_CTA9/images/branding.svg" alt="RUNWAY36"/>
       </a>
       <div>
         <ul>
@@ -119,6 +119,26 @@
           <li>Vitest</li>
           <li>Vue Test Utils</li>
           <li>pnpm</li>
+        </ul>
+      </div>
+    </td>
+    <td>
+      <a href="ruhr.agency">
+        <img style="height: 80px; width: 80px" src="https://ruhr.agency/wp-content/uploads/2022/04/Logo-blue@10x.png" alt="ruhr.agency"/>
+      </a>
+      <div>
+        <ul>
+          <li>Python</li>
+          <li>Pytest</li>
+          <li>AWS Powertools</li>
+          <li>React</li>
+          <li>AWS DynamoDB</li>
+          <li>Playwright</li>
+          <li>ShepherdJS</li>
+          <li>Databricks</li>
+          <li>JavaScript</li>
+          <li>GitHub CI/CD</li>
+          <li>SemanticUI</li>
         </ul>
       </div>
     </td>
