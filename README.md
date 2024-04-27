@@ -102,6 +102,7 @@
           <li>Python</li>
           <li>Pandas</li>
           <li>Flask</li>
+          <li>Supabase</li>
           <li>PostgresSQL</li>
           <li>SQL-Alchemy</li>
           <li>HubSpot CRM API</li>
@@ -115,6 +116,9 @@
           <li>GraphQL</li>
           <li>Tailwind CSS</li>
           <li>Flowbite-Vue</li>
+          <li>Vitest</li>
+          <li>Vue Test Utils</li>
+          <li>pnpm</li>
         </ul>
       </div>
     </td>
