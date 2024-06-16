@@ -96,7 +96,7 @@
     </td>
     <td>
       <a href="https://runway36.de/">
-        <img style="height: 80px; width: 80px" src="https://runway36.de/hubfs/raw_assets/public/Runway36_CTA9/images/branding.svg" alt="RUNWAY36"/>
+        <img style="height: 80px; width: 80px" src="https://tse4.mm.bing.net/th?id=OIP.ed5gt8PxvSAW1C3i_U7zCQAAAA&pid=Api" alt="RUNWAY36"/>
       </a>
       <div>
         <ul>
@@ -149,7 +149,7 @@
 ## ⚒️ My tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nuxt,ruby,nodejs,tailwind,ts,webpack,vite,py,fastapi,flask,java,php,laravel,supabase,githubactions,firebase,pinia,sqllite&theme=light)](https://skills.thijs.gg)
-[![My Skills](https://skillicons.dev/icons?i=jest,d3,gatsby,vitest,dynamodb,git,gql,webpack,jquery,powershell,angular,bash,styledcomponents,postman,lua,kubernetes,docker,aws,ableton,mysql,postgres,mongodb&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=jest,d3,threejs,gatsby,vitest,dynamodb,git,gql,webpack,jquery,powershell,angular,bash,styledcomponents,postman,lua,kubernetes,docker,aws,ableton,mysql,postgres,mongodb&theme=light)](https://skills.thijs.gg)
 
 ## Connect with me 📲
 
