@@ -140,6 +140,9 @@
           <li>JavaScript</li>
           <li>GitHub CI/CD</li>
           <li>SemanticUI</li>
+          <li>Shadcn UI</li>
+          <li>Docker</li>
+          <li>APIs</li>
         </ul>
       </div>
     </td>
