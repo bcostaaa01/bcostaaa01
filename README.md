@@ -38,7 +38,7 @@
   <tr>
     <td>
       <a href="https://xentral.com/">
-        <img style="height: 40px" src="https://xentral.com/_nuxt/img/logo-desktop.be37394.png" alt="Xentral"/>
+        <img style="height: 40px" src="https://seekvectorlogo.com/wp-content/uploads/2023/03/xentral-erp-software-gmbh-vector-logo.png" alt="Xentral"/>
       </a>
       <div>
         <ul>
@@ -67,7 +67,7 @@
     </td>
     <td>
       <a href="https://cobenefit.co/">
-        <img style="height: 80px; width: 80px" src="https://cobenefit.co/graphics/CoBenefit_logo.svg" alt="CoBenefit"/>
+        <img style="height: 80px; width: 80px" src="https://cdn.startbase.com/images/ecbe1c76a58dbf0b201a2b621ec5744a/69f0fec39ac00bb/" alt="CoBenefit"/>
       </a>
       <div>
         <ul>
