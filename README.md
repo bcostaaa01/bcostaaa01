@@ -156,6 +156,12 @@
 
 ## Connect with me 📲
 
+<h4>Let's have a coffee chat ☕</h4>
+
+https://calendly.com/bruno-m-a-costa/coffee-chat
+
+<h4>Find me on social media</h4>
+
 <table>
   <tr>
     <th>Twitter</th>
