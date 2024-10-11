@@ -42,7 +42,6 @@ https://dev.to/bcostaaa01
 <table>
   <tr>
     <th>Twitter</th>
-    <th>My articles</th>
     <th>Open Source - Python</th>
     <th>Open Source - npm</th>
   </tr>
