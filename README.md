@@ -25,8 +25,8 @@
 
 ## ⚒️ My tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nuxt,ruby,nodejs,tailwind,ts,webpack,vite,py,fastapi,flask,java,php,laravel,supabase,githubactions,firebase,pinia,sqllite&theme=light)](https://skills.thijs.gg)
-[![My Skills](https://skillicons.dev/icons?i=jest,d3,threejs,gatsby,vitest,dynamodb,git,gql,webpack,jquery,powershell,angular,bash,styledcomponents,postman,lua,kubernetes,terraform,docker,aws,ableton,mysql,postgres,mongodb&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,figma,nuxt,ruby,nodejs,tailwind,ts,webpack,vite,py,fastapi,flask,java,php,laravel,supabase,gitlab,github,githubactions,firebase,pinia,sqllite&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=jest,d3,threejs,gatsby,vitest,dynamodb,sqlite,git,gql,webpack,jquery,powershell,angular,bash,styledcomponents,postman,lua,kubernetes,terraform,docker,aws,ableton,mysql,postgres,mongodb&theme=light)](https://skills.thijs.gg)
 
 ## Connect with me 📲
 
@@ -35,6 +35,9 @@
 https://calendly.com/bruno-m-a-costa/coffee-chat
 
 <h4>Find me on social media</h4>
+
+[![my articles](https://skillicons.dev/icons?i=devto&theme=light)](https://skills.thijs.gg)
+https://dev.to/bcostaaa01
 
 <table>
   <tr>
@@ -47,9 +50,6 @@ https://calendly.com/bruno-m-a-costa/coffee-chat
     <td>
 https://www.twitter.com/bruno2001costa
     </td> 
-    <td>
-https://dev.to/bcostaaa01
-    </td>
     <td>
 https://pypi.org/project/hubmigrate/
     </td>
