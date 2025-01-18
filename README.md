@@ -25,7 +25,7 @@
 
 ## ⚒️ My tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,figma,nuxt,ruby,nodejs,tailwind,ts,webpack,vite,py,fastapi,flask,java,php,laravel,supabase,gitlab,github,githubactions,firebase,pinia&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,svelte,figma,nuxt,ruby,nodejs,tailwind,ts,webpack,vite,py,fastapi,flask,java,php,laravel,supabase,gitlab,github,githubactions,firebase,pinia&theme=light)](https://skills.thijs.gg)
 [![My Skills](https://skillicons.dev/icons?i=jest,d3,threejs,gatsby,vitest,dynamodb,sqlite,git,gql,webpack,npm,jquery,powershell,angular,bash,styledcomponents,postman,lua,kubernetes,terraform,docker,aws,ableton,mysql,postgres,mongodb&theme=light)](https://skills.thijs.gg)
 
 ## Connect with me 📲
