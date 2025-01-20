@@ -44,6 +44,7 @@ https://dev.to/bcostaaa01
     <th>Twitter</th>
     <th>Open Source - Python</th>
     <th>Open Source - npm</th>
+    <th>My website</th>
   </tr>
   <tr>
     <td>
@@ -54,6 +55,9 @@ https://pypi.org/project/hubmigrate/
     </td>
     <td>
 https://www.npmjs.com/~bcostaaa01
+    </td>
+    <td>
+      https://bruno-costa-web.vercel.app/
     </td>
   </tr>
 </table>
