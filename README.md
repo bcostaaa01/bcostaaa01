@@ -57,7 +57,7 @@ https://pypi.org/project/hubmigrate/
 https://www.npmjs.com/~bcostaaa01
     </td>
     <td>
-      https://bruno-costa-web.vercel.app/
+      [https://bruno-costa-web.vercel.app/](https://bruno-costa-online.vercel.app/)
     </td>
   </tr>
 </table>
