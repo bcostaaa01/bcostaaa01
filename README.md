@@ -21,7 +21,8 @@
 
 ### What is the most important thing somebody from the field has told you?
 
-- 💡 Every single thing.
+- 🙅‍♀️ Avoid side-effects when writing functions - each function is responsible for a _single responsibility_.
+- 🙂‍↕️ Don't be hard on yourself when an architectural/design decision needs to be changed at some point in the SDLC - it is completely normal and a part of it.
 
 ## ⚒️ My tech stack
 
