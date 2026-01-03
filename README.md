@@ -17,8 +17,7 @@ Full-stack developer with a strong frontend focus, clean architecture mindset, a
 
 ### What I love about what I do
 
-I enjoy building software end-to-end — from thoughtful UI and clean component architecture to scalable backend systems and solid infrastructure.  
-What motivates me most is working with like-minded people, continuously learning, and building products that have real impact.
+I enjoy building software end-to-end — from thoughtful UI and clean component architecture to scalable backend systems and solid infrastructure. What motivates me most is working with like-minded people, continuously learning, and building products that have real impact.
 
 ### How I like to work
 
