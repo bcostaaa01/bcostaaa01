@@ -2,13 +2,6 @@
 
 Full-stack developer with a strong frontend focus, clean architecture mindset, and a passion for building meaningful, user-centric software.
 
-### What you must know about me and why I can make a great coding teammate
-
-- 🌱 I’m currently learning new things every day...
-- 👯 I’m looking to collaborate on projects that have an impact...
-- 💬 Ask me about music, food, coffee...
-- ⚡ Fun fact: I like to eat cookies in water...
-
 ### Selected experience
 
 - Worked on internal and client-facing production systems as an employee and freelancer
