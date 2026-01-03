@@ -1,16 +1,38 @@
 ### Hi there 👋
 
-<img style="height: 160px" src="https://media.tenor.com/O9cMdj1wkgAAAAAC/mickey-mouse-wave.gif" />
+Full-stack developer with a strong frontend focus, clean architecture mindset, and a passion for building meaningful, user-centric software.
 
-- 🔭 I’m currently working on frontend and backend projects, data science, and a Raspberry Pi with Norns for creative music explorations 🔮
-- 🌱 I’m currently learning new things everyday...
+### What you must know about me and why I can make a great coding teammate
+
+- 🌱 I’m currently learning new things every day...
 - 👯 I’m looking to collaborate on projects that have an impact...
 - 💬 Ask me about music, food, coffee...
 - ⚡ Fun fact: I like to eat cookies in water...
 
-### What I love about what I do?
+### Selected experience
 
-- 👨‍💻 Well... everything! From the people I work and learn with everyday to the sheer endless amount of possibilities that there are with coding, new frameworks, software design patterns, software architecture, ... But most of all, the joy and fun it is to code and to work with like-minded people. Making an impact with code is something I am striving to as I progress in my career. 
+- Worked on internal and client-facing production systems as an employee and freelancer
+- Designed and implemented component-based frontend architectures used in real-world applications
+- Collaborated closely with designers on redesigns, accessibility and UX improvements
+- Experience working in agile teams with code reviews, CI/CD and production responsibility
+
+
+### 🚧 Currently building
+
+- A large-scale full-stack application with upcoming beta release, including AI-powered features
+- A personal product built with Vue, SQLite and clean architecture principles, focusing on privacy, security and handling sensitive personal data
+
+### What I love about what I do
+
+I enjoy building software end-to-end — from thoughtful UI and clean component architecture to scalable backend systems and solid infrastructure.  
+What motivates me most is working with like-minded people, continuously learning, and building products that have real impact.
+
+### How I like to work
+
+- Clean, maintainable code over clever hacks
+- Collaboration over ego
+- Iterative improvement over perfection
+- Accessibility, performance and security as first-class concerns
 
 ### What you must know about me and why can I make a great coding/team mate?
 
@@ -26,35 +48,20 @@
 
 ## ⚒️ My tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,react,vue,figma,nodejs,tailwind,ts,webpack,vite,py,fastapi,flask,php,supabase,gitlab,github,githubactions,pinia&theme=light)](https://skills.thijs.gg)
-[![My Skills](https://skillicons.dev/icons?i=jest,d3,vitest,dynamodb,sqlite,git,gql,webpack,npm,powershell,bash,styledcomponents,postman,kubernetes,terraform,docker,aws,mysql,postgres,mongodb,obsidian&theme=light)](https://skills.thijs.gg)
+**Frontend:** Vue, React, TypeScript, Tailwind  
+**Backend:** Java, Spring, Node.js, Python, FastAPI  
+**Infra & DevOps:** Docker, Kubernetes, Terraform, AWS  
+**Databases:** SQL, MySQL, PostgreSQL, SQLite
+**Testing & Quality:** Vitest, Jest, Storybook
+**Product Analytics:** Posthog
 
 ## Connect with me 📲
 
-<h4>Find me on social media</h4>
+[My articles](https://dev.to/bcostaaa01)
+      
+[Open source Python packages](https://pypi.org/project/hubmigrate/)
 
-[![my articles](https://skillicons.dev/icons?i=devto&theme=light)](https://skills.thijs.gg)
-https://dev.to/bcostaaa01
+[Open source npm packages](https://www.npmjs.com/~bcostaaa01)
 
-<table>
-  <tr>
-    <th>Twitter</th>
-    <th>Open Source - Python</th>
-    <th>Open Source - npm</th>
-    <th>My website</th>
-  </tr>
-  <tr>
-    <td>
-https://www.twitter.com/bruno2001costa
-    </td> 
-    <td>
-https://pypi.org/project/hubmigrate/
-    </td>
-    <td>
-https://www.npmjs.com/~bcostaaa01
-    </td>
-    <td>
-      [Personal webpage](https://bruno-costa-online.vercel.app/)
-    </td>
-  </tr>
-</table>
+[Personal webpage](https://bruno-costa-online.vercel.app/)
+
