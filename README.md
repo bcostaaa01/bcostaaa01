@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full-stack Software Engineer and CTO with a strong frontend focus, a clean architecture mindset, and a passion for building user-centric, scalable software.
+Full-stack Software Engineer with a strong frontend focus, a clean architecture mindset, and a passion for building user-centric, scalable software.
 
 I work primarily with Vue.js, React, and TypeScript, and I care deeply about maintainability, accessibility, performance, and security. I enjoy building products end-to-end — from thoughtful UI and component architecture to backend systems and infrastructure.
 
