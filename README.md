@@ -67,5 +67,5 @@ I enjoy building software end-to-end — from clean, expressive UI and well-desi
 
 [Open source npm packages](https://www.npmjs.com/~bcostaaa01)
 
-[Personal webpage](https://bruno-costa-online.vercel.app/)
+[Personal webpage](https://bruno-costa.dev/)
 
