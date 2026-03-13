@@ -14,6 +14,7 @@ Open to freelance and remote opportunities, especially frontend-heavy or full-st
 - Designed and implemented component-based frontend architectures used in real-world applications
 - Collaborated closely with designers on redesigns, accessibility improvements, and UX refinements
 - Experience working in agile teams with code reviews, CI/CD pipelines, and production ownership
+- Creating integrations between systems such as Figma plugins between Bitbucket and so on
 
 
 ### 🚧 Currently building
