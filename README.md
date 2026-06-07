@@ -4,6 +4,8 @@ Full-stack Software Engineer with a strong frontend focus, a clean architecture 
 
 I work primarily with Vue.js, React, and TypeScript, and I care deeply about maintainability, accessibility, performance, and security. I enjoy building products end-to-end — from thoughtful UI and component architecture to backend systems and infrastructure.
 
+Interested also in geodata and such things.
+
 ### Selected experience
 
 - Worked on internal and client-facing production systems as both an employee and a freelancer
