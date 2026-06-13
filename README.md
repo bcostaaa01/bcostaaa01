@@ -4,6 +4,10 @@ Full-stack Software Engineer with a strong frontend focus, a clean architecture 
 
 I work primarily with Vue.js, React, and TypeScript, and I care deeply about maintainability, accessibility, performance, and security. I enjoy building products end-to-end — from thoughtful UI and component architecture to backend systems and infrastructure.
 
+I live at the intersection of code, design, and spatial data. Obsessed with maps, beautiful interfaces, and making complex things feel effortless.
+In the age of AI, anyone can ship software. I care about making it feel right.
+React · Maps & Geodata · Design Systems · UX
+
 Interested also in geodata and such things.
 
 ### Selected experience
