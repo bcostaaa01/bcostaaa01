@@ -62,6 +62,13 @@ I enjoy building software end-to-end — from clean, expressive UI and well-desi
 **Testing & Quality:** Vitest, Jest, Storybook
 **Product Analytics:** Posthog
 
+### 🤖 AI tools I like to create things with
+
+**Claude:** creating skills, automating processes
+**Claude CLI:** coding, brainstorming about efficient and clean code solutions
+**Cursor:** coding, breaking down complex problems
+**Ollama:** running LLMs locally, building LLM-integrated apps
+
 ## Connect with me 📲
 
 [My articles](https://dev.to/bcostaaa01)
