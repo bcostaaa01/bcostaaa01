@@ -8,7 +8,7 @@ I live at the intersection of code, design, and spatial data — obsessed with m
 
 ### Selected experience
 
-- Worked on internal and client-facing production systems as both an employee and a freelancer, owning [feature/system] end-to-end from design through production support
+- Worked on internal and client-facing production systems as both an employee and a freelancer, owning a UI component library/design system and Sentry error-tracking infrastructure end-to-end from design through production support
 - Designed and implemented component-based frontend architectures at [Synaps](https://synaps.app), used by 80,000+ architects worldwide
 - Collaborated closely with designers on redesigns, accessibility improvements, and UX refinements
 - Built cross-system integrations, including a Figma plugin and Bitbucket automation
