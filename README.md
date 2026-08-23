@@ -17,8 +17,7 @@ I live at the intersection of code, design, and spatial data — obsessed with m
 
 ### 🚧 Currently building
 
-- [Project name] — a large-scale full-stack application with AI-powered features, beta launch [timeframe]
-- [Project name] — a privacy-focused personal product (Vue, SQLite) handling sensitive personal data with strong security guarantees
+- **StickyFlow.ai** — a collaborative app, building AI generation, and working on performance, integrations, and more
 
 ### 🧠 How I work
 
@@ -34,7 +33,7 @@ I live at the intersection of code, design, and spatial data — obsessed with m
 **Infra & DevOps:** Docker, Kubernetes, Terraform, AWS  
 **Databases:** SQL, MySQL, PostgreSQL, SQLite  
 **Testing & Quality:** Vitest, Jest, Storybook  
-**Product Analytics:** PostHog
+**Monitoring & Analytics:** Sentry, PostHog
 
 ### 🤖 AI tools I build with
 
