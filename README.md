@@ -9,7 +9,7 @@ I live at the intersection of code, design, and spatial data — obsessed with m
 ### Selected experience
 
 - Worked on internal and client-facing production systems as both an employee and a freelancer, owning [feature/system] end-to-end from design through production support
-- Designed and implemented component-based frontend architectures used in real-world applications at [scale, e.g. X users / Y req-s]
+- Designed and implemented component-based frontend architectures at [Synaps](https://synaps.app), used by 80,000+ architects worldwide
 - Collaborated closely with designers on redesigns, accessibility improvements, and UX refinements
 - Built cross-system integrations, including a Figma plugin and Bitbucket automation
 - Maintain open-source packages: [`hubmigrate`](https://pypi.org/project/hubmigrate/) on PyPI and [several packages](https://www.npmjs.com/~bcostaaa01) on npm
