@@ -19,6 +19,11 @@ I live at the intersection of code, design, and spatial data — obsessed with m
 
 - **StickyFlow.ai** — a collaborative app, building AI generation, and working on performance, integrations, and more
 
+### 📖 Favourite reads
+
+- The Agile Manifesto - Uncle Bob
+- Modern Software Engineering - David Farley
+
 ### 🧠 How I work
 
 - Clean, maintainable code over clever hacks; avoid side effects, keep functions single-purpose
