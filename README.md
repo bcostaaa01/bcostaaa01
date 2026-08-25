@@ -4,6 +4,8 @@ Full-stack Software Engineer with a frontend focus, a clean-architecture mindset
 
 I live at the intersection of code, design, and spatial data — obsessed with maps, clean interfaces, and making complex things feel effortless. In the age of AI, anyone can ship software; I care about making it feel right.
 
+I also love doing Mathematics with StickyFlow (more on that soon!) 🌟
+
 **Focus areas:** React · Maps & Geodata · Design Systems · UX
 
 ### Selected experience
