@@ -48,6 +48,7 @@ I also love doing Mathematics with StickyFlow (more on that soon!) 🌟
 **Claude Code:** day-to-day coding, working through design tradeoffs  
 **Cursor:** coding, breaking down complex problems  
 **Ollama:** running LLMs locally, building LLM-integrated apps
+**Claude**: Cloudflare, Render.io, Vercel
 
 ## Connect with me 📲
 
