@@ -41,6 +41,7 @@ I also love doing Mathematics with StickyFlow (more on that soon!) 🌟
 **Databases:** SQL, MySQL, PostgreSQL, SQLite  
 **Testing & Quality:** Vitest, Jest, Storybook  
 **Monitoring & Analytics:** Sentry, PostHog
+**Cloud**: Cloudflare, Render.io, Vercel
 
 ### 🤖 AI tools I build with
 
@@ -48,7 +49,6 @@ I also love doing Mathematics with StickyFlow (more on that soon!) 🌟
 **Claude Code:** day-to-day coding, working through design tradeoffs  
 **Cursor:** coding, breaking down complex problems  
 **Ollama:** running LLMs locally, building LLM-integrated apps
-**Cloud**: Cloudflare, Render.io, Vercel
 
 ## Connect with me 📲
 
