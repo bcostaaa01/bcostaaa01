@@ -20,7 +20,7 @@ I also love doing Mathematics with StickyFlow (more on that soon!) 🌟
 ### 🚧 Currently building
 
 - **StickyFlow.ai** — a collaborative app, building AI generation, and working on performance, integrations, and more
-- **lifeboard** — a personal, life project-based self-maangement application soon in beta - [check it out here!](https://lifeboard-marketing-page.bcostinha01.workers.dev)
+- **lifeboard** — a personal, life project-based self-maangement application soon in beta - [check it out here!](https://uselifeboard.com/)
 
 ### 📖 Favourite reads
 
