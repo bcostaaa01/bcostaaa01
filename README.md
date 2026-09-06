@@ -2,7 +2,7 @@
 
 Full-stack Software Engineer with a frontend focus, a clean-architecture mindset, and a passion for building user-centric, scalable software. I work primarily with Vue.js, React, and TypeScript, and care about maintainability, accessibility, performance, and security — from UI and component architecture through backend systems and infrastructure.
 
-I live at the intersection of code, design, and spatial data — obsessed with maps, clean interfaces, and making complex things feel effortless. In the age of AI, anyone can ship software; I care about making it feel right.
+I live at the intersection of code, design, and spatial data - obsessed with maps, clean interfaces, and making complex things feel effortless. In the age of AI, anyone can ship software; I care about making it feel right.
 
 I also love doing Mathematics with StickyFlow (more on that soon!) 🌟
 
