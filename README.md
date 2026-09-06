@@ -19,8 +19,8 @@ I also love doing Mathematics with StickyFlow (more on that soon!) 🌟
 
 ### 🚧 Currently building
 
-- **StickyFlow.ai** — a collaborative app, building AI generation, and working on performance, integrations, and more
-- **lifeboard** — a personal, life project-based self-maangement application soon in beta - [check it out here!](https://uselifeboard.com/)
+- **StickyFlow.ai** - a collaborative app, building AI generation, and working on performance, integrations, and more
+- **lifeboard** - a personal, life project-based self-maangement application soon in beta - [check it out here!](https://uselifeboard.com/)
 
 ### 📖 Favourite reads
 
@@ -31,7 +31,7 @@ I also love doing Mathematics with StickyFlow (more on that soon!) 🌟
 
 - Clean, maintainable code over clever hacks; avoid side effects, keep functions single-purpose
 - Accessibility, performance, and security as first-class concerns, not afterthoughts
-- Architectural decisions evolve — I treat revisiting them as normal, not as a failure
+- Architectural decisions evolve - I treat revisiting them as normal, not as a failure
 - Collaboration over ego, and iterative improvement over premature perfection
 
 ## ⚒️ Tech stack
