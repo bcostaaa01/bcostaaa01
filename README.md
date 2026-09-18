@@ -14,7 +14,7 @@ I also love doing Mathematics with StickyFlow (more on that soon!) 🌟
 - Designed and implemented component-based frontend architectures at [Synaps](https://synaps.app), used by 80,000+ architects worldwide
 - Collaborated closely with designers on redesigns, accessibility improvements, and UX refinements
 - Built cross-system integrations, including a Figma plugin and Bitbucket automation
-- Maintain open-source packages: [`hubmigrate`](https://pypi.org/project/hubmigrate/) on PyPI and [several packages](https://www.npmjs.com/~bcostaaa01) on npm
+- Maintain open-source packages: [`hubmigrate`](https://pypi.org/project/hubmigrate/) on PyPI
 - Write about engineering on [dev.to](https://dev.to/bcostaaa01)
 
 ### 🚧 Currently building
@@ -53,4 +53,4 @@ I also love doing Mathematics with StickyFlow (more on that soon!) 🌟
 
 ## Connect with me 📲
 
-[Articles](https://dev.to/bcostaaa01) · [Python packages](https://pypi.org/project/hubmigrate/) · [npm packages](https://www.npmjs.com/~bcostaaa01) · [Personal site](https://bruno-costa.dev/)
+[Articles](https://dev.to/bcostaaa01) · [Python packages](https://pypi.org/project/hubmigrate/) · [Personal site](https://bruno-costa.dev/)
