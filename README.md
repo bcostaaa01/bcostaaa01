@@ -34,7 +34,7 @@ I work mostly with Vue, React, and TypeScript, and I treat accessibility, perfor
 
 ### ⚒️ Tech stack
 
-**Frontend:** Vue, React, TypeScript, Tailwind
+**Frontend:** Vue, React, TypeScript, Tailwind, Angular (not AngularJS!)
 **Backend:** Java, Spring, Node.js, Python, FastAPI
 **Infra & DevOps:** Docker, Kubernetes, Terraform, AWS
 **Cloud:** Cloudflare, Render, Vercel
