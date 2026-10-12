@@ -19,7 +19,7 @@ I work mostly with Vue, React, Angular, and TypeScript, and I treat accessibilit
 
 - **StickyFlow.ai**: a collaborative app I'm building AI generation, performance, and integrations for. I also love using it to do mathematics (more on that soon!) 🌟
 - **lifeboard**: a project-based app for organising your life, now in beta. [Try it at uselifeboard.com](https://uselifeboard.com/)
-- **Gipfel**: a free app for people like me, who love hiking just as much, but are tired of paid apps with too many (and confusing) features
+- **Gipfel**: a free app for people like me, who love hiking just as much, but are tired of paid apps with too many (and confusing) features. [currently WIP]([https://uselifeboard.com/](https://gipfel-marketing-teal.vercel.app/))
 
 ### 📖 Favourite reads
 
