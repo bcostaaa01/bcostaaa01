@@ -17,7 +17,7 @@ I work mostly with Vue, React, Angular, and TypeScript, and I treat accessibilit
 
 ### 🚧 Currently building
 
-- **StickyFlow.ai**: a collaborative app I'm building AI generation, performance, and integrations for. 🌟 [learn more at stickyflow.org](https://stickyflow.org/)
+- **StickyFlow.ai**: a collaborative app I'm building AI generation, performance, plugins, VS Code extensions, and integrations for. 🌟 [learn more at stickyflow.org](https://stickyflow.org/)
 - **lifeboard**: a project-based app for organising your life, now in beta. [Try it at uselifeboard.com](https://uselifeboard.com/)
 - **Gipfel**: a free app for people like me, who love hiking just as much, but are tired of paid apps with too many (and confusing) features. [currently WIP](https://gipfel-marketing-teal.vercel.app/)
 
